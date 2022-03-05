@@ -122,11 +122,11 @@ msgstr "เลือกเวลา"
 
 #: static/admin/js/admin/DateTimeShortcuts.js:86
 msgid "Midnight"
-msgstr ""
+msgstr "เที่ยงคืน"
 
 #: static/admin/js/admin/DateTimeShortcuts.js:87
 msgid "6 a.m."
-msgstr ""
+msgstr "6 โมงเช้า"
 
 #: static/admin/js/admin/DateTimeShortcuts.js:88
 msgid "Noon"
